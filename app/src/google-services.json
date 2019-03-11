@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "299930168799",
+    "firebase_url": "https://dreamteam-efa74.firebaseio.com",
+    "project_id": "dreamteam-efa74",
+    "storage_bucket": "dreamteam-efa74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299930168799:android:9ab73531bae43743",
+        "android_client_info": {
+          "package_name": "com.estime.moon.dreamteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299930168799-uaadq6jhfhsrra1rqi8gcgc9o9rdllmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf4Q0uVEo-6Bybuxa7_ZkgB6inaz1169E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

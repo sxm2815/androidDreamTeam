@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_chat"
+            android:icon="@drawable/ic_sms_speech_bubble"
+            android:title="Chat"/>
+
+    <item
+            android:id="@+id/navigation_calendar"
+            android:icon="@drawable/ic_calendar_black"
+            android:title="Calendar"/>
+
+    <item
+            android:id="@+id/navigation_scheduler"
+            android:icon="@drawable/ic_scheduler_black"
+            android:title="Events"/>
+
+    <item
+            android:id="@+id/navigation_sticky_notes"
+            android:icon="@drawable/ic_sticky_note_black"
+            android:title="Notes"/>
+
+</menu>
